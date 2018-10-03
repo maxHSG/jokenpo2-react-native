@@ -24,6 +24,10 @@ project.xcworkspace
 
 # Android/IntelliJ
 #
+
+android/.gradle
+android/gradle/wrapper/*.zip
+
 build/
 .idea
 .gradle
@@ -35,6 +39,7 @@ local.properties
 node_modules/
 npm-debug.log
 yarn-error.log
+
 
 # BUCK
 buck-out/
